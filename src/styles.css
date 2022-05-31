@@ -1,4 +1,9 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+  margin: auto;
+}
+.flex{
+  display: flex;
+  justify-content: center;
 }
